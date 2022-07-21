@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nguyen Ngoc Dam
 - 👀 I’m interested in Computer Science & Artificial Intelligence
-- 🌱 I’m currently learning AI Engineer
+- 🌱 I’m currently working as an Computer Vision Engineer
 - 📫 Contact: [LinkedIn](https://www.linkedin.com/in/dam-nguyen-ngoc-42309b203/)
 <!-- - 💞️ I’m looking to collaborate on ... -->
 <!---
