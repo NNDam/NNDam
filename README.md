@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dam Nguyen Ngoc</h1>
 <h3 align="center">A passionate AI/ML engineer</h3>
 
-- 👀 I’m interested in Image Processing & Artificial Intelligence <br>
+- 👀 I’m interested in Machine Learning & Artificial Intelligence <br>
 - 🌱 I’m currently working as **AI/ML Engineer**
 - 😎 A big fan of **NVIDIA**
 
